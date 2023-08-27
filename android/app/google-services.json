@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969851857507",
+    "project_id": "flatnotes",
+    "storage_bucket": "flatnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969851857507:android:f6712c06ec0fa7a5daa656",
+        "android_client_info": {
+          "package_name": "com.nikitin.flatnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969851857507-khbg6m8rhvhclecuqsntbjglk81d5ema.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnXJPd4cOxLVP-LubdogkvMeH_YRTjL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969851857507-khbg6m8rhvhclecuqsntbjglk81d5ema.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
